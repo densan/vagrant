@@ -1,0 +1,6 @@
+.*
+!.gitignore
+
+Thumbs.db
+vendor
+composer.lock
