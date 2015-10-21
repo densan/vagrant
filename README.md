@@ -10,7 +10,7 @@ Get Started
 ### VirtualBox, Vagrant の導入
 まず、次の2つをインストールします。
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-*[Vagrant](https://www.vagrantup.com/downloads.html)
+* [Vagrant](https://www.vagrantup.com/downloads.html)
 
 ### GitHub fork
 このリポジトリを右上のボタンから Fork します。
