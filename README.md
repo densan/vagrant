@@ -37,7 +37,7 @@ vagrant ssh
 
 [PuTTY](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html)
 
-PuTTY.exe をダウンロード後、起動する。
+PuTTY.exe をダウンロード後、起動します。
 
 ![PuTTY](docs/PuTTY.png)
 
@@ -52,3 +52,16 @@ PuTTY では次のように、ログイン時のユーザ名を固定できま�
 
 ![PuTTY Auto-login username](docs/PuTTY-autologin.png)
 
+### vagrant の停止
+Vagrantfile のあるディレクトリで以下のコマンドを実行すると VM が停止します。
+
+```
+vagrant halt
+```
+
+### vagrant の状態確認
+Vagrantfile のあるディレクトリで以下のコマンドを実行すると、 VM の状態が確認できます。
+
+```
+vagrant status
+```
